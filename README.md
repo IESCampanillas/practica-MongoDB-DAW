@@ -2,7 +2,7 @@
 
 ## Práctica no obligatoria de MongoDB. Fecha limite de entrega: 21 de Mayo 
 
-[Enunciado de la práctica](Practica_MongoDB.pdf)
+[Enunciado de la práctica](enunciado.png)
 
 Sigue cualquiera de estos repositorios para instalar y aprender MongoDB:
 
