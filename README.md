@@ -12,4 +12,5 @@ Sigue cualquiera de estos repositorios para instalar y aprender MongoDB:
 
 ### Índice para la práctica de MongoDB
 [Blanco Salgado, Lucía](https://github.com/lucia-blanco/practicaMongoDB)
+
 [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/Practica-MongoDB)
