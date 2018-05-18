@@ -14,3 +14,4 @@ Sigue cualquiera de estos repositorios para instalar y aprender MongoDB:
 * [Blanco Salgado, Lucía](https://github.com/lucia-blanco/practicaMongoDB)
 * [Flores Padilla, Lucía](https://github.com/luciaflores25/PracticaMongoDB)
 * [Parejo Ramos, Beatriz](https://github.com/BeatrizPR/Practica-MongoDB)
+* [Ruiz López, Alejandro](https://github.com/AleRui/MongoDB_Practica)
